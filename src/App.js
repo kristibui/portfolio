@@ -26,7 +26,7 @@ const App = () => {
       <div className='sidebar'>
 
         <div className='img-sidebar'>
-            <img className='sidebar-pic' src={me} alt='sidebar-image'/>
+            <img className='sidebar-pic' src={me} alt='sidebar'/>
             <div className='sidebar-name'><a className='ind-link' href='/'>kristi bui</a></div>
             <div className='sidebar-titles links-1'><a className='ind-link' href='/projects'>projects</a></div>
             <div className='sidebar-titles links-2'><a className='ind-link' href='/experience'>experience</a></div>
