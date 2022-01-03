@@ -12,9 +12,8 @@ import FoodComponent from "./projects/food/FoodComponent";
 import PollsComponent from "./projects/polls/PollsComponent";
 import AvaComponent from "./projects/ava/AvaComponent";
 import me from './me.jpg';
-import resume from './Kristi_Bui_Fall_2020.pdf';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faEnvelopeSquare, faSave } from '@fortawesome/free-solid-svg-icons'
+import { faEnvelopeSquare } from '@fortawesome/free-solid-svg-icons'
 import { faGithubSquare, faLinkedin} from '@fortawesome/free-brands-svg-icons';
 import './App.css';
 
