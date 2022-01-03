@@ -34,9 +34,6 @@ const App = () => {
         </div>
 
         <div className='sidebar-info'>
-          <a className='icons' href={resume}>
-            <FontAwesomeIcon icon={faSave} size='2x'/>
-          </a>
           <a className='icons' href="https://github.com/kristibui">
             <FontAwesomeIcon icon={faGithubSquare} size='2x'/>
           </a>
